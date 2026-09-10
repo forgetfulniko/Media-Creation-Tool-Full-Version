@@ -225,3 +225,6 @@ This repository serves as the official landing page for Windows 10 Media Creatio
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Windows 10 Media Creation Tool today!**
+
+---
+**Last updated:** 2026-09-10 09:23:16 UTC
